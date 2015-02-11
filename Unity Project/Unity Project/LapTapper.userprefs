@@ -1,0 +1,21 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Resources\res\GameScripts\MainScripts\BGChanger.cs">
+    <Files>
+      <File FileName="Assets\Resources\res\GameScripts\MainScripts\AvatarAnimator.cs" Line="34" Column="24" />
+      <File FileName="Assets\Resources\res\GameScripts\MainScripts\BGChanger.cs" Line="13" Column="32" />
+      <File FileName="Assets\Resources\res\GameScripts\MainScripts\Playerstats.cs" Line="35" Column="20" />
+      <File FileName="Assets\Resources\res\GameScripts\MainScripts\BGMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\res\GameScripts\MainScripts\SplashScreenLoad.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\res\GameScripts\MainScripts\Authentication.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\res\GameScripts\MainScripts\BGLooper.cs" Line="20" Column="22" />
+      <File FileName="Assets\Resources\res\GameScripts\MainScripts\AchievementReport.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\res\GameScripts\GameModes\Blitz\LapButtonBlitz.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\res\GameScripts\GameModes\Blitz\CashInButton.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

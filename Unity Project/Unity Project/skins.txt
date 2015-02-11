@@ -1,0 +1,24 @@
+Lap Tapper Current Skins:
+
+Color Skins:
+- case "Red":
+
+		case "Green":
+
+		case "Blue":
+
+		case "Purple":
+
+		case "Magenta":
+
+		case "Lime":
+
+		case "Orange":
+
+		case "Cyan":
+
+		case "Brown":
+
+		case "Gold":
+		
+		case "Grey":

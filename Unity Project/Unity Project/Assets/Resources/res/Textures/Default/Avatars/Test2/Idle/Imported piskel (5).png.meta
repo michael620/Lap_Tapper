@@ -1,0 +1,549 @@
+fileFormatVersion: 2
+guid: b379ac8814627e44bb18c87a025cc582
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Imported piskel (5)_0
+    21300002: Imported piskel (5)_1
+    21300004: Imported piskel (5)_2
+    21300006: Imported piskel (5)_3
+    21300008: Imported piskel (5)_4
+    21300010: Imported piskel (5)_5
+    21300012: Imported piskel (5)_6
+    21300014: Imported piskel (5)_7
+    21300016: Imported piskel (5)_8
+    21300018: Imported piskel (5)_9
+    21300020: Imported piskel (5)_10
+    21300022: Imported piskel (5)_11
+    21300024: Imported piskel (5)_12
+    21300026: Imported piskel (5)_13
+    21300028: Imported piskel (5)_14
+    21300030: Imported piskel (5)_15
+    21300032: Imported piskel (5)_16
+    21300034: Imported piskel (5)_17
+    21300036: Imported piskel (5)_18
+    21300038: Imported piskel (5)_19
+    21300040: Imported piskel (5)_20
+    21300042: Imported piskel (5)_21
+    21300044: Imported piskel (5)_22
+    21300046: Imported piskel (5)_23
+    21300048: Imported piskel (5)_24
+    21300050: Imported piskel (5)_25
+    21300052: Imported piskel (5)_26
+    21300054: Imported piskel (5)_27
+    21300056: Imported piskel (5)_28
+    21300058: Imported piskel (5)_29
+    21300060: Imported piskel (5)_30
+    21300062: Imported piskel (5)_31
+    21300064: Imported piskel (5)_32
+    21300066: Imported piskel (5)_33
+    21300068: Imported piskel (5)_34
+    21300070: Imported piskel (5)_35
+    21300072: Imported piskel (5)_36
+    21300074: Imported piskel (5)_37
+    21300076: Imported piskel (5)_38
+    21300078: Imported piskel (5)_39
+    21300080: Imported piskel (5)_40
+    21300082: Imported piskel (5)_41
+    21300084: Imported piskel (5)_42
+    21300086: Imported piskel (5)_43
+    21300088: Imported piskel (5)_44
+    21300090: Imported piskel (5)_45
+    21300092: Imported piskel (5)_46
+    21300094: Imported piskel (5)_47
+    21300096: Imported piskel (5)_48
+    21300098: Imported piskel (5)_49
+    21300100: Imported piskel (5)_50
+    21300102: Imported piskel (5)_51
+    21300104: Imported piskel (5)_52
+    21300106: Imported piskel (5)_53
+    21300108: Imported piskel (5)_54
+    21300110: Imported piskel (5)_55
+    21300112: Imported piskel (5)_56
+    21300114: Imported piskel (5)_57
+    21300116: Imported piskel (5)_58
+    21300118: Imported piskel (5)_59
+    21300120: Imported piskel (5)_60
+    21300122: Imported piskel (5)_61
+    21300124: Imported piskel (5)_62
+    21300126: Imported piskel (5)_63
+    21300128: Imported piskel (5)_64
+    21300130: Imported piskel (5)_65
+    21300132: Imported piskel (5)_66
+    21300134: Imported piskel (5)_67
+    21300136: Imported piskel (5)_68
+    21300138: Imported piskel (5)_69
+    21300140: Imported piskel (5)_70
+    21300142: Imported piskel (5)_71
+    21300144: Imported piskel (5)_72
+    21300146: Imported piskel (5)_73
+    21300148: Imported piskel (5)_74
+    21300150: Imported piskel (5)_75
+    21300152: Imported piskel (5)_76
+    21300154: Imported piskel (5)_77
+    21300156: Imported piskel (5)_78
+    21300158: Imported piskel (5)_79
+    21300160: Imported piskel (5)_80
+    21300162: Imported piskel (5)_81
+    21300164: Imported piskel (5)_82
+    21300166: Imported piskel (5)_83
+    21300168: Imported piskel (5)_84
+    21300170: Imported piskel (5)_85
+    21300172: Imported piskel (5)_86
+    21300174: Imported piskel (5)_87
+    21300176: Imported piskel (5)_88
+    21300178: Imported piskel (5)_89
+    21300180: Imported piskel (5)_90
+    21300182: Imported piskel (5)_91
+    21300184: Imported piskel (5)_92
+    21300186: Imported piskel (5)_93
+    21300188: Imported piskel (5)_94
+    21300190: Imported piskel (5)_95
+    21300192: Imported piskel (5)_96
+    21300194: Imported piskel (5)_97
+    21300196: Imported piskel (5)_98
+    21300198: Imported piskel (5)_99
+    21300200: Imported piskel (5)_100
+    21300202: Imported piskel (5)_101
+    21300204: Imported piskel (5)_102
+    21300206: Imported piskel (5)_103
+    21300208: Imported piskel (5)_104
+    21300210: Imported piskel (5)_105
+    21300212: Imported piskel (5)_106
+    21300214: Imported piskel (5)_107
+    21300216: Imported piskel (5)_108
+    21300218: Imported piskel (5)_109
+    21300220: Imported piskel (5)_110
+    21300222: Imported piskel (5)_111
+    21300224: Imported piskel (5)_112
+    21300226: Imported piskel (5)_113
+    21300228: Imported piskel (5)_114
+    21300230: Imported piskel (5)_115
+    21300232: Imported piskel (5)_116
+    21300234: Imported piskel (5)_117
+    21300236: Imported piskel (5)_118
+    21300238: Imported piskel (5)_119
+    21300240: Imported piskel (5)_120
+    21300242: Imported piskel (5)_121
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Imported piskel (5)_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 163
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Imported piskel (5)_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 163
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Imported piskel (5)_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 163
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Imported piskel (5)_3
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 163
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Imported piskel (5)_4
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 163
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Imported piskel (5)_5
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 163
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Imported piskel (5)_6
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 163
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Imported piskel (5)_7
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 163
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Imported piskel (5)_8
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 163
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Imported piskel (5)_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 130
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Imported piskel (5)_10
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 130
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Imported piskel (5)_11
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 130
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Imported piskel (5)_12
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 130
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Imported piskel (5)_13
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 130
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Imported piskel (5)_14
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 130
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Imported piskel (5)_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 98
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Imported piskel (5)_16
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 98
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Imported piskel (5)_17
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 98
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Imported piskel (5)_18
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 98
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Imported piskel (5)_19
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 98
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Imported piskel (5)_20
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 98
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Imported piskel (5)_21
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 65
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Imported piskel (5)_22
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 65
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Imported piskel (5)_23
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 65
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Imported piskel (5)_24
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 65
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Imported piskel (5)_25
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 65
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Imported piskel (5)_26
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 65
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Imported piskel (5)_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 33
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Imported piskel (5)_28
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 33
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Imported piskel (5)_29
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 33
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Imported piskel (5)_30
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 33
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Imported piskel (5)_31
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 33
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Imported piskel (5)_32
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 33
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Imported piskel (5)_33
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Imported piskel (5)_34
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 0
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Imported piskel (5)_35
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 0
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Imported piskel (5)_36
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Imported piskel (5)_37
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 0
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

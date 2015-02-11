@@ -1,0 +1,355 @@
+fileFormatVersion: 2
+guid: bc56248c192042e4d9a8fd65b2eb5be5
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Basic Color Skin copy_0
+    21300002: Basic Color Skin copy_1
+    21300004: Basic Color Skin copy_2
+    21300006: Basic Color Skin copy_3
+    21300008: Basic Color Skin copy_4
+    21300010: Basic Color Skin copy_5
+    21300012: Basic Color Skin copy_6
+    21300014: Basic Color Skin copy_7
+    21300016: Basic Color Skin copy_8
+    21300018: Basic Color Skin copy_9
+    21300020: Basic Color Skin copy_10
+    21300022: Basic Color Skin copy_11
+    21300024: Basic Color Skin copy_12
+    21300026: Basic Color Skin copy_13
+    21300028: Basic Color Skin copy_14
+    21300030: Basic Color Skin copy_15
+    21300032: Basic Color Skin copy_16
+    21300034: Basic Color Skin copy_17
+    21300036: Basic Color Skin copy_18
+    21300038: Basic Color Skin copy_19
+    21300040: Basic Color Skin copy_20
+    21300042: Basic Color Skin copy_21
+    21300044: Basic Color Skin copy_22
+    21300046: Basic Color Skin copy_28
+    21300048: Basic Color Skin copy_33
+    21300050: Basic Color Skin copy_34
+    21300052: Basic Color Skin copy_35
+    21300054: Basic Color Skin copy_36
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Basic Color Skin copy_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 423
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Basic Color Skin copy_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 423
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Basic Color Skin copy_2
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 423
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Basic Color Skin copy_3
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 423
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Basic Color Skin copy_4
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 423
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Basic Color Skin copy_5
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 423
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Basic Color Skin copy_6
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 351
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Basic Color Skin copy_7
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 351
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Basic Color Skin copy_8
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 351
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Basic Color Skin copy_9
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 351
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Basic Color Skin copy_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 351
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Basic Color Skin copy_11
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 273
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Basic Color Skin copy_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 273
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Basic Color Skin copy_13
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 273
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Basic Color Skin copy_14
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 273
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Basic Color Skin copy_15
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 273
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Basic Color Skin copy_16
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 273
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Basic Color Skin copy_17
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 201
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Basic Color Skin copy_18
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 201
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Basic Color Skin copy_19
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 201
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Basic Color Skin copy_20
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 201
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Basic Color Skin copy_21
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 201
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Basic Color Skin copy_22
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 229
+        width: 98
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Basic Color Skin copy_28
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 194
+        width: 75
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Basic Color Skin copy_33
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 32
+        width: 89
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Basic Color Skin copy_34
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 32
+        width: 89
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Basic Color Skin copy_35
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 125
+        width: 183
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Basic Color Skin copy_36
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 55
+        width: 183
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

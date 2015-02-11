@@ -1,0 +1,20 @@
+Lap Tapper PlayerPrefs:
+
+Skins:
+- cButtonSkin -> current skin of button, should be default if it's a color skin
+- cButtonColor -> current color of button, should be "Custom" for non default skins
+- cCircleSkin
+- cCircleColor
+- bButtonSkins
+- bCircleSkins
+
+Data:
+- pScore
+- pLapCoin
+- pReset
+- lastUpdatedTime
+- pTime
+- pTitle
+- cBG
+- uAchievements
+

@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: 7c78c3efbad810f4a9ec484d18257f96
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Side Menu Textures copy_0
+    21300002: Side Menu Textures copy_1
+    21300004: Side Menu Textures copy_2
+    21300006: Side Menu Textures copy_3
+    21300008: Side Menu Textures copy_4
+    21300010: Side Menu Textures copy_5
+    21300012: Side Menu Textures copy_6
+    21300014: Side Menu Textures copy_7
+    21300016: Side Menu Textures copy_8
+    21300018: Side Menu Textures copy_9
+    21300020: Side Menu Textures copy_10
+    21300022: Side Menu Textures copy_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Side Menu Textures copy_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 444
+        width: 199
+        height: 51
+      alignment: 5
+      pivot: {x: 1, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Side Menu Textures copy_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 361
+        width: 410
+        height: 66
+      alignment: 5
+      pivot: {x: 1, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Side Menu Textures copy_2
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 290
+        width: 230
+        height: 66
+      alignment: 5
+      pivot: {x: 1, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Side Menu Textures copy_3
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 230
+        width: 381
+        height: 51
+      alignment: 5
+      pivot: {x: 1, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Side Menu Textures copy_4
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 157
+        width: 397
+        height: 50
+      alignment: 5
+      pivot: {x: 1, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Side Menu Textures copy_5
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 119
+        width: 399
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Side Menu Textures copy_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2
+        width: 77
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Side Menu Textures copy_7
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 3
+        width: 53
+        height: 73
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Side Menu Textures copy_8
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 2
+        width: 83
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Side Menu Textures copy_9
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 2
+        width: 67
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Side Menu Textures copy_10
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 2
+        width: 76
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Side Menu Textures copy_11
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 2
+        width: 75
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
